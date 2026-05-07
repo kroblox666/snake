@@ -1,0 +1,5 @@
+
+WIDTH = 600
+HEIGHT = 450
+FPS = 5
+SIZE = 20
